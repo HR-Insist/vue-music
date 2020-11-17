@@ -1,0 +1,156 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356454",
+      "name": "喇叭",
+      "font_class": "laba",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "357549",
+      "name": "MV",
+      "font_class": "mv",
+      "unicode": "e833",
+      "unicode_decimal": 59443
+    },
+    {
+      "icon_id": "2739054",
+      "name": "火箭",
+      "font_class": "iconcopy",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "2859863",
+      "name": "good",
+      "font_class": "good",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3104242",
+      "name": "展开 全屏 扩展",
+      "font_class": "zhankaiquanpingkuozhan-copy",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "3104244",
+      "name": "缩小 退出全屏 收回",
+      "font_class": "suoxiaotuichuquanpingshouhui-copy",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "4144247",
+      "name": "全屏 充满屏幕 放大 线性",
+      "font_class": "quanpingchongmanpingmufangdaxianxing",
+      "unicode": "e95f",
+      "unicode_decimal": 59743
+    },
+    {
+      "icon_id": "6888427",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7006860",
+      "name": "播放量",
+      "font_class": "bofangliang",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7162362",
+      "name": "静音",
+      "font_class": "jingyin",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "8150189",
+      "name": "桌面歌词-展开_44",
+      "font_class": "zhuomiangeci-zhankai",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "8150211",
+      "name": "桌面歌词_下一曲_44",
+      "font_class": "zhuomiangeci_xiayiqu",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "8152834",
+      "name": "桌面歌词_上一曲_44",
+      "font_class": "zhuomiangeci_shangyiqu",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "8181612",
+      "name": "桌面歌词_收起_44",
+      "font_class": "zhuomiangeci-shouqi",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "10547117",
+      "name": "eye close",
+      "font_class": "eyeclose",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "11391498",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "12793672",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13137519",
+      "name": "歌词未点击",
+      "font_class": "geciweidianji",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "13510819",
+      "name": "home",
+      "font_class": "shouye",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "14206888",
+      "name": "eye show",
+      "font_class": "eyeshow",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "15670090",
+      "name": "伤心",
+      "font_class": "shangxin",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    }
+  ]
+}
